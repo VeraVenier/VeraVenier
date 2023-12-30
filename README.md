@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @VeraVenier
+- 👀 I’m interested in python
+- 🌱 I’m currently learning django
+- 💞️ I’m looking to collaborate on a website 
+- 📫 you can reach me here : vera.venier@outlook.com
